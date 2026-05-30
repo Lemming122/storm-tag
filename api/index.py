@@ -205,11 +205,11 @@ def titledata():
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=pink>.GG/FzuVudZBTw</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FF0000>WELCOME TO STORM TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: NOWRUZ 2024</color>\n<color=#cacfd2>BOOST THE DISCORD FOR COSMETICS</color>\n<color=#FF00FF>HARMONY MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: HARMONY / DADDY</color>\n<color=#ac1a00>MAIN OWNERS OF GAME : BOBA : LINX : </color>\n\n<color=#91A3B0>DISCORD.GG/FzuVudZBTw</color>",
+        "MOTD": "<color=#FF0000>WELCOME TO STORM TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: PRIDE 2024</color>\n<color=#cacfd2>BOOST THE DISCORD FOR COSMETICS</color>\n<color=#FF00FF>HARMONY MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: HARMONY / DADDY</color>\n<color=#ac1a00>MAIN OWNERS OF GAME : BOBA : LINX : </color>\n\n<color=#91A3B0>DISCORD.GG/FzuVudZBTw</color>",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/FzuVudZBTw",
-        "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
+        "TOBAlreadyOwnPurchaseBundle": "STORM TAG",
         "TOBDefCompTxt": "DISCORD.GG/FzuVudZBTw",
-        "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
+        "TOBDefPurchaseBtnDefTxt": "STORM TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
